@@ -21,6 +21,7 @@ Please download the dataset to the floder 'gcmc/data/netflix' frist [Netflix Pri
 ## About the Code
 
 We wrote the code for pre-processing the Netflix dataset, data filtering and screening. The code of building the model is wrote by
+
 Rianne van den Berg, Thomas N. Kipf, Max Welling, [Graph Convolutional Matrix Completion](https://arxiv.org/abs/1706.02263) (2017).
 We tuned different hyper-parameters such as dropout rate and retrained the model.
 
