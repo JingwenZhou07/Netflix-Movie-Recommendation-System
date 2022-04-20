@@ -4,8 +4,11 @@
 
 This is the Tensorflow based implemention of Graph Convolutional Matrix Completion for Recommender systems.
 
-## Requirements
+## Dataset
+Please download the dataset to the floder 'gcmc/data/netflix' frist [Netflix Prize Dataset](https://www.kaggle.com/code/laowingkin/netflix-movie-recommendation/data)
 
+
+## Requirements
 - TensorFlow (1.4)
 - pandas
 
